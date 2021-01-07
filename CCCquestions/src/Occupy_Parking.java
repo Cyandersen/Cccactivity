@@ -12,7 +12,10 @@ public class Occupy_Parking
 		Scanner input = new Scanner(System.in);
 
 		int number = input.nextInt();
-		
+		String yesterday = input.next();
+		String today = input.next();
+		String str = "C.";
+		char[] chSearch = {'C', '.',};
 
 	}
 
